@@ -1,2 +1,3 @@
 # sample
-test repo
+test repo.
+tet edit
